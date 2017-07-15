@@ -1,9 +1,5 @@
 /*
 Programmer: John Zavisa
-Assignment: Open Lab 7
-Class: CSCI3110
-Course Instructor: Dr. Dong
-Due Date: 4:00AM, Monday, 4/24/17
 Description: This program uses maps and graphs to build graph, add node, add edge, BFS, DFS, and Shortest Path
 */
 
